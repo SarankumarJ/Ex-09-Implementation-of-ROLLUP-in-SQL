@@ -1,4 +1,4 @@
-# Ex-09-Implementation-of-ROLLUP-in-SQL
+## Ex-22 Implementation of ROLLUP in SQL
 ## AIM:-
 To write a sql query to perform ROLLUP in SQL.
 
@@ -16,6 +16,8 @@ Insert Value to the table.
 Perform ROLLUP on Employees table.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE ROLLUP_OPERATION;
 USE ROLLUP_OPERATION;
